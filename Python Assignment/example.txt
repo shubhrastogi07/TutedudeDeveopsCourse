@@ -1,0 +1,3 @@
+Line 1 Writing to file.
+Line 2 Writing to file.
+Writing to a file using Python is easy!
